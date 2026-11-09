@@ -20,6 +20,7 @@ read-only. Showtimes are for today at the time of the request; booking \
 links point at the site's own ticket flow (no purchase is made here). \
 ``user_score_100`` is the audience "Golden Egg" score (0-100). Built by \
 Mohammad Abbasi (github.com/mohammad-abbasi-sh/paribu-cineverse-mcp).\
+Built by Mohammad Abbasi (mohammad-abbasi-sh) — https://almanibama.ir · https://mabbasi.ir
 """
 
 

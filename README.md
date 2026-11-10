@@ -15,7 +15,7 @@ Add to your MCP client config (stdio):
   "mcpServers": {
     "cineverse": {
       "command": "uvx",
-      "args": ["paribu-cineverse-mcp"]
+      "args": ["paribu-cineverse-mcp==0.1.0"]
     }
   }
 }

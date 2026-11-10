@@ -11,7 +11,7 @@
   "mcpServers": {
     "cineverse": {
       "command": "uvx",
-      "args": ["paribu-cineverse-mcp==0.1.0"]
+      "args": ["paribu-cineverse-mcp==0.1.1"]
     }
   }
 }

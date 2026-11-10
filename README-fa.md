@@ -35,3 +35,7 @@
 ## قوانین
 
 غیررسمی و فقط‌خواندنی — بدون لاگین، بدون کلید، بدون نوشتن. تست‌ها: آفلاین با فیکسچر + تست زنده (۱۷/۱۷ سبز).
+
+---
+
+Built by [Mohammad Abbasi](https://github.com/mohammad-abbasi-sh) — [Almanibama](https://almanibama.ir) · [mabbasi.ir](https://mabbasi.ir)

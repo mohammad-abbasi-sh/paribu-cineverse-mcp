@@ -7,7 +7,7 @@ name = "paribu-cineverse-mcp"
 version = "0.1.1"
 description = "Unofficial read-only MCP server for Paribu Cineverse cinemas — now showing, coming soon, showtimes"
 readme = "README.md"
-license = { text = "MIT" }
+license = { text = "PolyForm-Noncommercial-1.0.0" }
 requires-python = ">=3.10"
 dependencies = [
     "mcp<2",
